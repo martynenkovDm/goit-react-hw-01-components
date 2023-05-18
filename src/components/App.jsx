@@ -21,8 +21,8 @@ export const App = () => {
       display="flex"
       flexDirection="column"
       alignItems="center"
-      justifyContent="space-between"
       as="main"
+      justifyContent="space-between"
       px={5}
       py={3}
       width={1} 
